@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/elquran/static/css/main.15da1f5c.css",
-    "main.js": "/elquran/static/js/main.21228919.js",
+    "main.css": "/elquran/static/css/main.af8864eb.css",
+    "main.js": "/elquran/static/js/main.f38e45fc.js",
     "static/js/622.d668e372.chunk.js": "/elquran/static/js/622.d668e372.chunk.js",
     "static/js/713.e05e59e3.chunk.js": "/elquran/static/js/713.e05e59e3.chunk.js",
     "static/js/213.8eada7b4.chunk.js": "/elquran/static/js/213.8eada7b4.chunk.js",
@@ -15,11 +15,11 @@
     "static/js/849.c56918d2.chunk.js": "/elquran/static/js/849.c56918d2.chunk.js",
     "static/media/Hamdullah.ttf": "/elquran/static/media/Hamdullah.421058c7143b5fc02e0f.ttf",
     "index.html": "/elquran/index.html",
-    "main.15da1f5c.css.map": "/elquran/static/css/main.15da1f5c.css.map",
-    "main.21228919.js.map": "/elquran/static/js/main.21228919.js.map"
+    "main.af8864eb.css.map": "/elquran/static/css/main.af8864eb.css.map",
+    "main.f38e45fc.js.map": "/elquran/static/js/main.f38e45fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.15da1f5c.css",
-    "static/js/main.21228919.js"
+    "static/css/main.af8864eb.css",
+    "static/js/main.f38e45fc.js"
   ]
 }
