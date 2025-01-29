@@ -1,0 +1,67 @@
+*{
+  margin:0;
+  border-width: 0;
+  font-family: 'Avenir';
+  color:white;
+  align-self: center;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  background-color: transparent;
+  overflow: auto;
+}
+@font-face{
+  font-family: Hamdullah;
+  src: url(./data/fonts/Hamdullah.ttf);
+}
+
+html,body,#root{
+  background-color: rgb(30,30,30);
+  height:100%;
+}
+
+div,label,input,button,img{
+  display: flex;
+}
+
+button{
+  overflow: hidden;
+  color:black;
+  background-color:rgb(40,40,40);
+  border-radius: 7px;
+}
+button:hover,label:hover,input:hover,select:hover{
+  opacity: 0.7;
+}
+
+
+input,textarea,select{
+  padding: 5px;
+  border-radius: 7px;
+  background-color: rgb(50,50,50);
+}
+
+select,input[type=number]::-webkit-inner-spin-button{
+  -webkit-appearance:none;
+  -moz-appearance:none;
+  appearance:none;
+}
+
+
+::-webkit-scrollbar{width: 5px; height: 5px;}
+::-webkit-scrollbar-thumb{border-radius:5px; background-color:white;}
+
+
+
+.loader{
+  border: 2px solid white;
+  border-radius: 50%;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  animation: spin 3s linear infinite;
+}
+@keyframes spin{
+  0% {transform: rotate(360deg);}
+  100% {transform: rotate(0deg);}
+}
