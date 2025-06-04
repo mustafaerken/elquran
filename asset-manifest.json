@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/elquran/static/main.cea44964.css",
-    "main.js": "/elquran/static/main.a87abc24.js",
+    "main.css": "/elquran/static/main.b57b8d12.css",
+    "main.js": "/elquran/static/main.a9e57464.js",
     "static/622.d668e372.chunk.js": "/elquran/static/622.d668e372.chunk.js",
     "static/713.e05e59e3.chunk.js": "/elquran/static/713.e05e59e3.chunk.js",
     "static/213.8eada7b4.chunk.js": "/elquran/static/213.8eada7b4.chunk.js",
@@ -19,7 +19,7 @@
     "main.a87abc24.js.map": "/elquran/static/main.a87abc24.js.map"
   },
   "entrypoints": [
-    "static/main.cea44964.css",
-    "static/main.a87abc24.js"
+    "static/main.b57b8d12.csss",
+    "static/main.a9e57464.js"
   ]
 }
